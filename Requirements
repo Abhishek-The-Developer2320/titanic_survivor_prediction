@@ -1,0 +1,7 @@
+
+These are the core libraries you used in the Titanic Survivor Prediction model:
+
+numpy: For numerical operations.
+pandas: For handling and manipulating data (loading the Titanic dataset).
+scikit-learn: For machine learning algorithms (Logistic Regression, data splitting, scaling).
+jupyter: To run the Jupyter Notebook.
